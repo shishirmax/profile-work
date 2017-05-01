@@ -191,6 +191,9 @@ section.technology{
 section.about{
   height: 100vh;
 }
+#maincontent{
+  height: 100vh;
+}
 @media (max-width: 767px) {
     section {
         padding: 75px 0
@@ -295,10 +298,10 @@ a.back-to-top{
   margin-top: 40px;
 }
 .img i{
-  font-size: 44px;
+  font-size: 60px;
 }
 .tech-hd{
   font-size: 20px;
   font-weight: bold;
-  padding: 10px 0px 15px;
+  /*padding: 10px 0px 15px;*/
 }
