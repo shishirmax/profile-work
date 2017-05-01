@@ -173,6 +173,7 @@ section h2{
 section.portfolio{
   background-color: #82b9d6;
   color:#fff;
+  height: 100vh;
 }
 section.contact{
   background-color: #82b9d6;
@@ -185,6 +186,10 @@ section.technology{
   background-size: cover;
   background-position: center center;
   */
+  height: 100vh;
+}
+section.about{
+  height: 100vh;
 }
 @media (max-width: 767px) {
     section {
