@@ -178,6 +178,7 @@ section.portfolio{
 section.contact{
   background-color: #82b9d6;
   color:#fff;
+  height: 100vh;
 }
 section.technology{
   /*background-image: url(../img/snap2.jpg);
@@ -190,9 +191,15 @@ section.technology{
 }
 section.about{
   height: 100vh;
+  font-weight: 500;
 }
 #maincontent{
   height: 100vh;
+/*  background-image: url(../img/about2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  filter: grayscale(100%);*/
 }
 @media (max-width: 767px) {
     section {
